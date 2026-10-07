@@ -1,0 +1,10 @@
+# TouchDesigner autosaves and backups
+Backup/
+*.toe
+*.[0-9]*.toe
+CrashAutoSave*
+# recordings stay out of the repo
+*.mp4
+*.mov
+# OS
+.DS_Store
